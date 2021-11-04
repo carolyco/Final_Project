@@ -1,0 +1,20 @@
+---
+title: "proposal"
+author: "Caroly Coronado- Vargas"
+date: "11/3/2021"
+output: html_document
+---
+
+**DS 202 Project Proposal:**
+ 
+**The names of team member(s):** *Caroly Coronado-Vargas*
+
+**The link to the data source:** *Will email compiled data set*
+
+**An overview of the dataset:** *TRIO overview gathered from their website: “The TRIO programs are an educational opportunity for income-eligible and first-generation Americans. These programs were the first national college access and retention programs to address the serious social and cultural barriers to education in America. TRIO began as part of President Lyndon B. Johnson’s War on Poverty. The TRIO programs were originally established by the federal government in 1965 under the Higher Education Act to ensure equal educational opportunity for all Americans, regardless of race, ethnic background, or economic circumstances. Congress established a series of programs to help low-income Americans enter college, graduate and move on to participate more fully in American’s economic and social life. TRIO has evolved over the years and now consists of Educational Opportunity Centers, Student Support Services, Talent Search, Upward Bound, and Veterans Upward Bound.*
+
+*While student financial aid programs help students overcome financial barriers to higher education, TRIO programs help students overcome class, social, and cultural barriers to higher education.”*
+
+*The dataset is consistent with demographic and educational information of students within their program SSS. The dataset compiled different years with different student information, more specifically, pre-covid, covid and beginning post-covid era on campus.*
+
+**Plan for an exploratory analysis:** *I will compare data between different graduating classes. Information I will compare include: yearly retention rates, graduation rates, midterm grades, usage of trio offered services such tutor funds. I will analyze the trends based on the covid timeline and also demographic information such as: Classification, family income, generation status, ethnicity, and gender.*
